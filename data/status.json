@@ -1,12 +1,16 @@
 {
   "naver": {
-    "ok": false,
-    "message": "Secrets 미설정(NAVER_AD_CUSTOMER_ID / NAVER_AD_ACCESS_LICENSE / NAVER_AD_SECRET_KEY)",
-    "run_at_kst": "2026-11-15T20:12:37+09:00"
+    "ok": true,
+    "message": "ok",
+    "run_at_kst": "2026-11-15T20:23:08+09:00",
+    "seeds": 38,
+    "seeds_failed": [],
+    "rows": 6558,
+    "top_keywords": 500
   },
   "gsc": {
     "ok": false,
     "message": "Secrets 미설정(GSC_SERVICE_ACCOUNT_JSON)",
-    "run_at_kst": "2026-11-15T20:12:37+09:00"
+    "run_at_kst": "2026-11-15T20:23:08+09:00"
   }
 }
